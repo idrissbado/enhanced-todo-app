@@ -1,4 +1,13 @@
 # Enhanced ToDo Application with Redux
+![image](https://github.com/user-attachments/assets/5dd45618-2bcd-40ba-aef9-e3f1850085cb)
+
+![image](https://github.com/user-attachments/assets/15897b41-ab8b-4683-b212-0b6c49abcd2f)
+
+![image](https://github.com/user-attachments/assets/7f8ba1b1-c5aa-4526-94f4-86ac434223db)
+
+![image](https://github.com/user-attachments/assets/bba3ec72-0830-4fcf-8bdc-d84c98b76e10)
+
+
 
 A comprehensive task management application with authentication, analytics, and advanced task management features.
 
